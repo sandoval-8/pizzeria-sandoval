@@ -1,5 +1,18 @@
 # Pizzeria
 
+Proyecto de pizzeria, consiste en un proyecto creado con angular cli, consta de 6 componentes:
+2 componentes reutilizables (header, footer).
+2 componentes navegables (index, buy)
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
 ## Development server
