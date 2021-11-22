@@ -1,0 +1,11 @@
+.footer, .img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row {
+  width: 57vw;
+}
+.contacto {
+  height: 25px;
+}
