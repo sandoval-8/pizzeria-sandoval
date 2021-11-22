@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+}
+.col {
+    padding: 12px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+img[src="assets/images/comprar.png"] {
+    height: 20px;
+    margin-right: 5px;
+}
