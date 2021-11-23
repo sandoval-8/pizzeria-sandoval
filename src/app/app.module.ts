@@ -9,6 +9,8 @@ import { IndexComponent } from './view/index/index.component';
 import { BuyComponent } from './view/buy/buy.component';
 import { BodyComponent } from './view/index/body/body.component';
 import { BodyComprarComponent } from './view/buy/body-comprar/body-comprar.component';
+import { NosotrosComponent } from './view/nosotros/nosotros.component';
+import { BodyNosotrosComponent } from './view/nosotros/body-nosotros/body-nosotros.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { BodyComprarComponent } from './view/buy/body-comprar/body-comprar.compo
     IndexComponent,
     BuyComponent,
     BodyComponent,
-    BodyComprarComponent
+    BodyComprarComponent,
+    NosotrosComponent,
+    BodyNosotrosComponent
   ],
   imports: [
     BrowserModule,
